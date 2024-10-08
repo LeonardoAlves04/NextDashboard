@@ -1,4 +1,4 @@
-## Aplicação de pedido de lanches/refeições
+## Dashboard de produtos
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=next&message=framework&color=blue&style=for-the-badge&logo=Next"/>
@@ -8,7 +8,7 @@
   <img src="http://img.shields.io/static/v1?label=Prisma&message=ORM&color=red&style=for-the-badge&logo=Prisma"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: Concluído!!
+> Status do Projeto: :heavy_check_mark: Em andamento
 
 ### Tópicos 🔹
 
@@ -23,7 +23,7 @@
 ## Descrição do projeto 📝
 
 <p align="justify">
-Um app de pedidos de comidas/lanches (semelhante ao ifood, aiqfome, etc...). Nesse app você consegue buscar por diversos alimentos através da barra de pesquisa e/ou selecioná-los através das categorias disponíveis. Você também pode favoritar os restaurantes que voce mais pede e acessá-los na aba de restaurantes favoritos, para isso voce precisa estar logado com sua conta do google ( implementei essa funcionalidade através do nextAuth). Contém também a sacola que voce consegue confirmar seu pedido e se necessário alterar a quantidade dos itens por lá, e fechando seu pedido na sacola voce pode acessá-lo através da aba de meus pedidos.
+Um app de pedidos de um dashboard de produtos onde você pode gerenciar os produtos existentes da sua loja, criar novos produtos ou excluir produtos que já foram criados.
 </p>
 
 ## Funcionalidades 📦
@@ -40,7 +40,7 @@ Um app de pedidos de comidas/lanches (semelhante ao ifood, aiqfome, etc...). Nes
 
 ## Deploy da Aplicação :dash:
 
-Deploy: [next-food-eight.vercel.app](next-food-eight.vercel.app)
+Deploy: 
 
 ## Linguagens e libs utilizadas :books:
 
